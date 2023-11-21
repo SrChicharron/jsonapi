@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "mail": "2015313073@uteq.edu.mx",
+      "password": "Password1234",
+      "type": "student"
+    }
+  ]
+}
